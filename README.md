@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Linux System Monitoring Tool
 
 ## Project Overview
@@ -26,3 +27,6 @@ The purpose of this project is to demonstrate Linux administration, Python scrip
 
 ```bash
 pip3 install psutil
+=======
+# linux-monitoring-tool
+>>>>>>> 95313ed7391f9a6baffc96be202f69fe58728c16
